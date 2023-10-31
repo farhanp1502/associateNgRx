@@ -1,0 +1,90 @@
+{
+  "associates": [
+    {
+      "id": 1,
+      "name": "kaushik dolui1",
+      "email": "kaushik@gmail.com",
+      "phone": 9876543210,
+      "address": "12 singapore thailand",
+      "type": "CUSTOMER",
+      "associategroup": "level1",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "kaushik dolui2",
+      "email": "kaushik@gmail.com",
+      "phone": 9876543210,
+      "address": "12 singapore thailand",
+      "type": "CUSTOMER",
+      "associategroup": "level1",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "kaushik dolui3",
+      "email": "kaushik@gmail.com",
+      "phone": 9876543210,
+      "address": "12 singapore thailand",
+      "type": "CUSTOMER",
+      "associategroup": "level1",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "kaushik dolui4",
+      "email": "kaushik@gmail.com",
+      "phone": 9876543210,
+      "address": "12 singapore thailand",
+      "type": "CUSTOMER",
+      "associategroup": "level1",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "kaushik dolui5",
+      "email": "kaushik@gmail.com",
+      "phone": 9876543210,
+      "address": "12 singapore thailand",
+      "type": "CUSTOMER",
+      "associategroup": "level1",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "kaushik dolui6",
+      "email": "kaushik@gmail.com",
+      "phone": 9876543210,
+      "address": "12 singapore thailand",
+      "type": "CUSTOMER",
+      "associategroup": "level1",
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "kaushik dolui",
+      "email": "kaushik@gmail.com",
+      "phone": 9876543210,
+      "address": "12 singapore thailand",
+      "type": "CUSTOMER",
+      "associategroup": "level1",
+      "status": true
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "farhan",
+      "email": "farhanpasha1502@gmail.com",
+      "phone": "987654321",
+      "associategroup": "CUSTOMER",
+      "address": "hebbal",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": 10
+    }
+  ]
+}
